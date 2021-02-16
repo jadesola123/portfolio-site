@@ -1,0 +1,15 @@
+.navbar{
+    display:flex;
+    position:fixed;
+    background-color: burlywood;
+    top:0;
+    
+}
+.navlist{
+    list-style: none;
+   
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
